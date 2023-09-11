@@ -1,0 +1,100 @@
+h2{
+    color: rgb(156, 107, 23);
+}
+header{
+    background-color:rgba(110, 95, 113,0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    background-image: url(https://www.visitsaudi.com/content/dam/saudi-tourism/media/activities-and-attractions-categories/Adventure_Activities_Hero_Banner.jpg);
+    background-color: rgb(12, 12, 9);
+    
+    margin:0;
+    padding:0;
+    font-size: medium;
+    font-family: 'Lora', serif;
+
+}
+div{
+    background-color:rgba(70,39,34,100);
+    color: darkgoldenrod;
+    width: 300px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 6px 20px rgb(60,58,56,1);
+    border-radius: 10px;
+}
+div a{
+    background-color: darkslategray;
+    color:aquamarine;
+    text-decoration:none;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav{
+    display: flex;
+    gap: 20px
+}
+.Nav-link{
+    color: white;
+    text-decoration:none;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+}
+#logo{
+    width: 100px;
+    
+    height:100px;
+}
+#Eventsec{
+    display: flex;
+    justify-content: center;
+    
+}
+footer{
+    background-color:rgb(97, 93, 87);
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer p{
+    color: rgb(66, 2, 2);
+    
+
+}
+.bung{
+    background-color:rgb(231, 222, 233);
+    color: rgb(72, 53, 4);
+    width: 800px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 6px 20px rgb(60,58,56,1);
+    border-radius: 10px;
+    justify-content: center;
+
+}
+form 
+{
+    background-color: dimgray;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+}
+input[type="submit"]{
+    width: 10%;
+    color: black;
+    background-color: rgba(82, 0, 123, 0.37);
+    border-radius: 10px;
+    
+
+
+}
